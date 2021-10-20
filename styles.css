@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-bottom: 0px;
+    color: #0c7575;
+}
+
+h2{
+    padding-top: 10px;
+    font-size: 2.5rem;
+    color: #11999E;
+}
+
+h3{
+    font-size: 1.6rem;
+    color: #149494;
+}
+
+a{
+    color: #14adad;
+    text-decoration: none;
+    padding: 30px;
+}
+
+a:hover{
+    color: #2e3333;
+}
+p{
+    color: #323f3c;
+    font-size: 1.3rem;
+    font-weight: bold;
+    line-height: 2;
+}
+
+hr{
+    border-color: #d8e6e6;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+}
+
+.my-photo{
+    border-radius: 49%;
+    border: black solid 2px;
+}
+
+.top-container{
+    padding-top: 100px;
+    background-color: #e4ffff;
+}
+
+.code{
+    width: 25%;
+    float: left;
+    padding-right: 50px;
+}
+
+.drawing{
+    width: 25%;
+    float: right;
+}
+
+.top-cloud{
+    position: relative;
+    left: 500px;
+    top: 5px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 90px;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 60px auto 100px;
+    text-align: left;
+}
+
+.bottom-container{
+    background-color: #96dfdf;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.copyright{
+    margin-bottom: 0;
+    padding: 10px;
+    padding-bottom: 15px;
+    color:#40514E;
+    font-size: 1rem;
+}
+
+.footer-link{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.btn{
+    font-size: 1.2rem;
+    color: floralwhite;
+    padding : 10px;
+    border-radius: 10px;
+    background-color: #4dafaf;
+}
+
+.pizza{
+    margin: 10px auto 50px;
+}
+
+
+.profile{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
